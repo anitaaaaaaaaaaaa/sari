@@ -32,6 +32,9 @@ nama asistem praktikum 2: David Panondang Sinaga
 7.Program akan menampilkan hasil perhitungan rata-rata pemakaian listrik dalam satu tahun dan perbulannya
 # Media
 Vidio : https://youtu.be/bTXkgUneGso
+
 Laporan :https://drive.google.com/file/d/1KFSrOanrzgVJrrJGKcROtELE7fFjKw_m/view?usp=share_link
+
 Program :https://github.com/anitaaaaaaaaaaaa/sari/edit/main/README.md
+
 Program Running :https://replit.com/@SEPTYENGEL/ShockingNoxiousReality
