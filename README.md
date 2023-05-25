@@ -10,7 +10,9 @@ program ini berguna untuk menghitung dan menegtahui jumlah konsumsi dan produksi
 
 # Pengantar Komputer & Software 2
 Nama Dosen: Asep Nurul Ajiid Mustofa
+
 nama asisten praktikum 1: Marchel Samosir
+
 nama asistem praktikum 2: David Panondang Sinaga
 
 # Cara Kerja Program
