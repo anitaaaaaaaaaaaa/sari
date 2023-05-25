@@ -31,10 +31,12 @@ nama asistem praktikum 2: David Panondang Sinaga
 6.Masukkan jumlah konsumsi damn produksi listrik dalam perbulan.
 7.Program akan menampilkan hasil perhitungan rata-rata pemakaian listrik dalam satu tahun dan perbulannya
 # Media
-Vidio : https://youtu.be/bTXkgUneGso
+| Nama File |  | link |
+|----------- | |----------|
+| Vidio | | https://youtu.be/bTXkgUneGso |
 
-Laporan :https://drive.google.com/file/d/1KFSrOanrzgVJrrJGKcROtELE7fFjKw_m/view?usp=share_link
+| Laporan | | https://drive.google.com/file/d/1KFSrOanrzgVJrrJGKcROtELE7fFjKw_m/view?usp=share_link |
 
-Program :https://github.com/anitaaaaaaaaaaaa/sari/edit/main/README.md
+| Program| | https://github.com/anitaaaaaaaaaaaa/sari/edit/main/README.md |
 
-Program Running :https://replit.com/@SEPTYENGEL/ShockingNoxiousReality
+| Program Running | | https://replit.com/@SEPTYENGEL/ShockingNoxiousReality |
