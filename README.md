@@ -34,9 +34,6 @@ nama asistem praktikum 2: David Panondang Sinaga
 | Nama File | link |
 |----------- |----------|
 | Vidio | https://youtu.be/bTXkgUneGso |
-
 | Laporan | https://drive.google.com/file/d/1KFSrOanrzgVJrrJGKcROtELE7fFjKw_m/view?usp=share_link |
-
 | Program| | https://github.com/anitaaaaaaaaaaaa/sari/edit/main/README.md |
-
 | Program Running | https://replit.com/@SEPTYENGEL/ShockingNoxiousReality |
