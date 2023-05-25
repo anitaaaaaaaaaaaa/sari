@@ -3,7 +3,9 @@ program ini berguna untuk menghitung dan menegtahui jumlah konsumsi dan produksi
 
 # Anggota Kelompok
 1.Anita Sari (122340015)
+
 2.Gazza Al Karomi (122340022)
+
 3.Septy Engel (122340018)
 
 # Pengantar Komputer & Software 2
