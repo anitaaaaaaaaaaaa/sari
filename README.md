@@ -24,11 +24,17 @@ nama asistem praktikum 2: David Panondang Sinaga
 
 # Cara Mengunakan Program
 1.Pastikan terdapat compiler c++yang telah terinstall di komputer Anda.
+
 2.Download atau clone repository ini.
+
 3.Buka aplikasi compiler anda atau anda bisa jalankan di compiler online
+
 4.Jalankan program dengan menekan tombol run
+
 5.Masukkan angka pengunaan listrik harian
+
 6.Masukkan jumlah konsumsi damn produksi listrik dalam perbulan.
+
 7.Program akan menampilkan hasil perhitungan rata-rata pemakaian listrik dalam satu tahun dan perbulannya
 # Media
 | Nama File | link |
